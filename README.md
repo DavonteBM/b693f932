@@ -2,11 +2,11 @@
 
 ![](./src/assets/images/AirCallLogo.png)
 
-[_Visit the live Demo here_](https://nodesource.com/products/nsolid)
+[_Visit the live Demo here_](https://b693f932.onrender.com/)
 
 This is a small ReactJS app that uses the [AirCall API.](https://github.com/speer-technologies/aircall/)
 
-![](./src/assets/images/view.png)
+![](./src/assets/images/view.PNG)
 
 ## Features
 
